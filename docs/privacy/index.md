@@ -1,0 +1,73 @@
+---
+title: Privacy Policy
+---
+
+# Privacy Policy
+
+Last updated: 2025-12-31
+
+This Privacy Policy explains how Flipzy (“we”, “us”, “our”) collects, uses, and shares information when you use the Flipzy mobile application (the “App”).
+
+## 1) Information We Collect
+
+### A. Photos and Media You Provide
+- You may upload photos (from your library or camera) to generate AI results.
+- We process the images you submit to provide the requested features (e.g., baby generation, filters, reveal videos).
+
+### B. Generated Content
+- The App may create outputs such as images and videos based on your inputs.
+
+### C. Device & App Data
+We may collect basic technical information to operate and improve the App, such as:
+- device type, OS version
+- app version
+- language/region
+- diagnostic information (e.g., crash logs)
+
+### D. Purchases and Subscription Status
+If you purchase a subscription or premium access, we receive purchase status information from the app store and/or our subscription provider in order to unlock features.
+
+## 2) How We Use Information
+We use information to:
+- provide and improve App features
+- run AI processing needed to generate results
+- maintain security and prevent abuse
+- provide customer support
+- comply with legal obligations
+
+## 3) How We Share Information
+We do not sell your personal data.
+
+We may share information only in these cases:
+- **Service providers:** trusted vendors that help us operate the App (e.g., analytics, crash reporting, subscription management, AI processing).
+- **Legal requirements:** if required by law or to protect rights, safety, and security.
+- **Business transfers:** if the App is involved in a merger, acquisition, or asset sale.
+
+## 4) Data Retention
+We keep data only as long as needed to provide the App and for legitimate business purposes (such as security, troubleshooting, and compliance). You can delete content stored in the App by removing it from the App (where available) and/or requesting deletion as described below.
+
+## 5) Your Choices & Rights
+Depending on your location, you may have rights to access, delete, or correct your information.
+
+### Delete Your Data
+You can request deletion by contacting us at the email below. Please include:
+- your country
+- the approximate date/time you used the App
+- any relevant identifiers you can provide (do not send sensitive documents)
+
+## 6) Children’s Privacy
+The App is not intended for children under 13 (or the minimum age required in your region). We do not knowingly collect personal information from children.
+
+## 7) Security
+We use reasonable safeguards designed to protect information. No method of transmission or storage is 100% secure.
+
+## 8) International Transfers
+Your information may be processed in countries other than where you live. We take steps to ensure appropriate protection.
+
+## 9) Contact Us
+If you have questions or requests regarding privacy, contact:
+
+**Email:** mehmetoztin@gmail.com
+
+## 10) Changes
+We may update this Privacy Policy from time to time. We will update the “Last updated” date above.
