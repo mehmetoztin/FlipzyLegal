@@ -47,10 +47,10 @@ We may share information only in these cases:
 - **Business transfers:** if the App is involved in a merger, acquisition, or asset sale.
 
 ### AI Processing Providers (Replicate, fal.ai)
-To generate results, the App may securely transmit user-selected photos (which may include faces) to third-party AI processing providers, including **Replicate** and/or **fal.ai**. We do **not** collect FaceID data or biometric identifiers, and we do not use your photos to identify you.
+To generate results, the App may securely transmit user-selected photos (which may include faces/face data) to third-party AI processing providers, including **Replicate** and/or **fal.ai**. We do **not** collect FaceID data or biometric identifiers, and we do not use your photos to identify you.
 
 #### Do these third parties store face data?
-These providers may temporarily store processing data (including inputs/outputs that may include face data) **only to operate the generation workflow**, such as running the prediction, generating output files, delivering results for download, ensuring reliability, and enabling limited troubleshooting/logging.
+These providers may temporarily store face data (i.e., photos and generated outputs that may include faces) only to operate the generation workflow, such as running the prediction, generating output files, delivering results for download, ensuring reliability, and enabling limited troubleshooting/logging.
 
 #### Provider privacy practices and retention
 **Replicate (API predictions)**
